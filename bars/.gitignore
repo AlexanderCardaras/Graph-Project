@@ -1,0 +1,3 @@
+# do not track Pycharm specific directories
+.idea/
+src/__pycache__/
